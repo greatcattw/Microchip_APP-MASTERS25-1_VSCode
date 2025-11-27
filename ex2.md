@@ -2,7 +2,7 @@
 
 ## create a blank project 
 <br>![pic](pic21/11.png)<br>
-Press button of [Exploer], select [Creat MPLAB Project]<br><br>
+Press button of [Exploer], select [Create MPLAB Project]<br><br>
 
 <br>![pic](pic21/12.png)<br>
 name is "a24" , then press [Enter] <br><br>
@@ -44,4 +44,5 @@ select MCU<br><br>
 
 <br>![pic](pic22/aa7.png)<br>
 Message of prgramming ok<br><br>
+
 
