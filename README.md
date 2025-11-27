@@ -12,8 +12,11 @@ open/import code which created by MPLAB X IDE.
 ## Exercise 2 : flash blank project by VScode
 [ex2](ex2.md)<br>
 
-## Exercise 3 : LED1 test, MCC
-in progress
+## Exercise 3 : LED1 test, MCC (microchip code configurator)
+[Create a project](ex3a.md)<br>
+[Run MCC and coding](ex3b.md)<br>
+[Build and program to device](ex3c.md)<br>
+
 
 ## Exercise 4 : Timer LED1 test
 in progress
