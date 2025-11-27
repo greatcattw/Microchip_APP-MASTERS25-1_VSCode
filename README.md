@@ -2,6 +2,12 @@
 Exercise VSCode and APP-MASTERS25-1
 <br>![pic](pic0/1.jpg)<br>
 <br>
+
+<br>![pic](pic0/00.png)<br>
+Button of explorer<br>
+<br>![pic](pic0/000.png)<br>
+This is [Command Palette]<br>
+<br>
 ## Exercise 1 : flash factory fw by VScode
 <br>
 open/import code which created by MPLAB X IDE.
