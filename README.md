@@ -13,6 +13,7 @@ open/import code which created by MPLAB X IDE.
 [ex2](ex2.md)<br>
 
 ## Exercise 3 : LED1 test, MCC (microchip code configurator)
+<br>![pic](pic3/51s.jpg)<br>
 [Create a project](ex3a.md)<br>
 [Run MCC and coding](ex3b.md)<br>
 [Build and program to device](ex3c.md)<br>
