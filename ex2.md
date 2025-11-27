@@ -2,7 +2,7 @@
 
 ## create a blank project 
 <br>![pic](pic21/11.png)<br>
-select [Creat MPLAB Project]<br><br>
+Press button of [Exploer], select [Creat MPLAB Project]<br><br>
 
 <br>![pic](pic21/12.png)<br>
 name is "a24" , then press [Enter] <br><br>
