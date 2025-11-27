@@ -1,7 +1,7 @@
 # Exercise 1 flash factory fw by VScode
 
 <br>![pic](pic1/4.png)<br>
-select [Open Folder]<br><br>
+Press button of [Explorer], select [Open Folder]<br><br>
 
 <br>![pic](pic1/6.png)<br>
 select folder<br>
