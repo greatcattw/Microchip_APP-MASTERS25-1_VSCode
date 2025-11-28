@@ -1,11 +1,12 @@
 # Microchip_APP-MASTERS25-1_VSCode
 Exercise VSCode and APP-MASTERS25-1
 <br>![pic](pic0/1.jpg)<br>
-hot key is ctrl+shift+e <br>
 <br>
 
+## Important
 <br>![pic](pic0/00.png)<br>
 Button of explorer<br>
+hot key is ctrl+shift+e <br>
 
 <br>![pic](pic0/000.png)<br>
 This is [Command Palette]<br>
