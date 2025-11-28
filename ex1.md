@@ -1,4 +1,4 @@
-# Exercise 1 flash factory fw which is created by VScode
+# Exercise 1 : Using VSCode to flash factory fw which is created by MPLAB X IDE
 
 <br>![pic](pic1/4.png)<br>
 Press button of [Explorer], select [Open Folder]<br><br>
