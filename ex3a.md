@@ -2,6 +2,7 @@
 
 ## Create a project
 <br>![pic](pic3/16.png)<br>
+press ctrl+shift+p to open Explorer dialog.<br>
 select [Creat MPLAB Project]<br><br>
 
 <br>![pic](pic3/17.png)<br>
@@ -21,5 +22,6 @@ select compiler [XC32]<br><br>
 
 <br>![pic](pic3/22.png)<br>
 Message for ok to create project <br><br>
+
 
 
