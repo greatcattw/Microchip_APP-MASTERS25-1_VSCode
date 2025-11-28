@@ -2,7 +2,8 @@
 
 ## Run MCC and coding
 <br>![pic](pic3/23.png)<br>
-press [>] and select select [MPLAB MCC:Launch]<br><br>
+press ctrl+shift+p to open command palette with MPLAB task. <br> 
+select select [MPLAB MCC:Launch]<br><br>
 
 <br>![pic](pic3/24.png)<br>
 select [Creat New MCC Config]<br><br>
@@ -50,4 +51,5 @@ Add code<br><br>
 
 <br>![pic](pic3/35.png)<br>
 Add code<br><br>
+
 
