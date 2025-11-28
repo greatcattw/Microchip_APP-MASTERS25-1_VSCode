@@ -30,6 +30,7 @@ open/import code which created by MPLAB X IDE.
 
 # Exercise 5 : Blinking LED with timer callback
 Please refer to the Masters_2025 teaching course / MCU / Lab1.<br>
+Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
 It is ok for VSCode, too.<br>
 [ex5](ex5.md)<br>
