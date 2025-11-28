@@ -27,3 +27,9 @@ open/import code which created by MPLAB X IDE.
 
 # Exercise 4 : Blink LED1 by AI coding
 [ex4](ex4.md)<br>
+
+# Exercise 5 : Blinking LED with timer callback
+Please refer to the Masters_2025 teaching course / MCU / Lab1.<br>
+The teaching course is for MPLAB X IDE.<br>
+It is ok for VSCode, too.<br>
+[ex5](ex5.md)<br>
