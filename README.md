@@ -49,3 +49,6 @@ Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
 It is ok for VSCode, too.<br>
 [ex6](ex6.md)<br>
+
+# Exercise 7 : ADC, Data Visualizer, Time Plot, by AI coding
+[ex7](ex7.md)<br>
