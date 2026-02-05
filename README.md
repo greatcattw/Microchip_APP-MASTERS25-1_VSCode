@@ -77,3 +77,6 @@ It is ok for ubuntu 22 VSCode, too.<br>
 
 ## Exercise 11 : OLED draw
 ![pic](pico/pic11_oled_draw/1.jpg)<br>
+extract evk_setting_lcd02.zip and rename test01/ <br>
+copy file in ex11_oled_draw to test01/ <br>
+VSCode open test01/ , build and flash it. <br>
